@@ -1,0 +1,1 @@
+Egyszerű, másolható, felhasználható komponensek.
