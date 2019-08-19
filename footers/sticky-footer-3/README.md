@@ -1,0 +1,1 @@
+Sticky footer - html height 100%, position: absolute
